@@ -55,7 +55,7 @@ header > p{
     max-width: 500px; /*Quando colocamos essa largura p se torna um bloco*/
     margin: auto;
     text-shadow: 2px 2px 0px #00000063;
-    margin-bottom: 30px;
+    padding-bottom: 40px;
     
 }
 nav{
